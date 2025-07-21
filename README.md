@@ -92,7 +92,6 @@ with tokens enumerated line by line.
 PTPy/
 ├── PTPy.py             # Main tokenizer script
 ├── stopWordList.py     # Extensive Persian stop word list
-├── ReadME.docx         # Persian user manual
 ```
 
 ## 📂 Customization
